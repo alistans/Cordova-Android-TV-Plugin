@@ -1,8 +1,8 @@
 {
     "version": "1.0.3",
-    "name": "com.hughisaacs2.cordova.plugins.androidtvplugin",
-    "cordova_name": "AndroidTVPlugin",
-    "description": "Cordova Android TV Plugin",
+    "name": "cordova-plugin-android-tv",
+    "cordova_name": "Android TV Plugin",
+    "description": "Android TV",
     "platforms": [
         "android"
     ],
